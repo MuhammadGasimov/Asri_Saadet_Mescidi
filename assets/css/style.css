@@ -2508,6 +2508,7 @@ header.style2 .logo>a {
 }
 
 .widget {
+  margin-top: 20px;
   float: left;
   margin-bottom: 40px;
   width: 100%;
@@ -3346,7 +3347,6 @@ footer .scl1>a {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #000;
   opacity: .5;
 }
 
@@ -3371,7 +3371,7 @@ footer .scl1>a {
   float: left;
   width: 100%;
   position: relative;
-  padding: 22px;
+  padding: 25px;
 }
 
 .tch-inf>h5 {
